@@ -11,21 +11,39 @@ All images were sorted according to the classification taken with ISIC, and all 
 The data set contains the following diseases:
 
 Actinic keratosis
+
 Basal cell carcinoma
+
 Dermatofibroma
+
 Melanoma
+
 Nevus
+
 Pigmented benign keratosis
+
 Seborrheic keratosis
+
 Squamous cell carcinoma
+
 Vascular lesion
+
 Steps Involved
+
 Data Loading
+
 Baseline Model Building
+
 Training the Model and testing the model
+
 Building an augmented model
+
 Training the augmented model and testing the model
+
 Countering Class Imbalance with augmentor
+
 Building the final model
+
 Training the final model and testing the model
+
 Verifying the model
